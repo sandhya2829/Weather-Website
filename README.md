@@ -1,2 +1,2 @@
-# Weather-Website
+# QR Code Reader
 new repo
